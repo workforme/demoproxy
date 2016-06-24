@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test
+END
+TEST
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/TEST
+END
+test_daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_daemon.c
+END
+makefile.bsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/makefile.bsd
+END
+test_cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_cli.c
+END
+module1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/module1.c
+END
+module2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/module2.c
+END
+test_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_pool.c
+END
+module3.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/module3.c
+END
+test_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_list.c
+END
+test_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_signal.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test.c
+END
+test_async_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_async_queue.c
+END
+test_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_module.c
+END
+test_threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/test_threads.c
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/makefile.linux
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mailrept/!svn/ver/118240/branches/DEV_FREE_ENTMAIL/src/ldapproxy2/libstk/test/Makefile
+END
