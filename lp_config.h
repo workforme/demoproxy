@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  lp_config.h:  Chen Huaying yilong@sina.cn
+ *  lp_config.h:  Yilong Zhao yilong@sina.cn
  *
  *  ldapproxy configure module.
  */

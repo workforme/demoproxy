@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  ldapproxy.c:  Chen Huaying <yilong@sina.cn>
+ *  ldapproxy.c:  Yilong Zhao <yilong@sina.cn>
  *
  *  ldapproxy daemon.
  */
