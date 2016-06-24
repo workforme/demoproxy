@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  comm.h:  Yilong Zhao chenhuaying@sina.cn
+ *  comm.h:  Yilong Zhao yilong@sina.cn
  *
  *  simple tool kit: common use.
  */

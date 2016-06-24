@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  stk_log.h:  Yilong Zhao chenhuaying@sina.cn
+ *  stk_log.h:  Yilong Zhao yilong@sina.cn
  *
  *  simple tool kit: log.
  */

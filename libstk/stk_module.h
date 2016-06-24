@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  stk_module.h:  Yilong Zhao chenhuaying@sina.cn
+ *  stk_module.h:  Yilong Zhao yilong@sina.cn
  *
  *  simple tool kit: module.
  */

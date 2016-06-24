@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  test_cli.c:  Yilong Zhao <chenhuaying@sina.cn>
+ *  test_cli.c:  Yilong Zhao <yilong@sina.cn>
  *
  *  test socket client.
  */

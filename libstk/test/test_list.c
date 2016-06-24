@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  stk_list.c:  Yilong Zhao <chenhuaying@sina.cn>
+ *  stk_list.c:  Yilong Zhao <yilong@sina.cn>
  *
  *  simple tool kit: double list test.
  */

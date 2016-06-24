@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  test.c:  Yilong Zhao <chenhuaying@sina.cn>
+ *  test.c:  Yilong Zhao <yilong@sina.cn>
  *
  *  test for libstk.
  */

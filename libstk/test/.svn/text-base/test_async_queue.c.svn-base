@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  test_async_queue.c:  Yilong Zhao <chenhuaying@sina.cn>
+ *  test_async_queue.c:  Yilong Zhao <yilong@sina.cn>
  *
  *  simple tool kit: test for asynchronous queue.
  */
