@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  stk_pool.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  stk_pool.c:  Yilong Zhao <chenhuaying@sina.cn>
  *
  *  simple tool kit: memory pool.
  */

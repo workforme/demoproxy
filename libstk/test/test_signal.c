@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  test_signal.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  test_signal.c:  Yilong Zhao <chenhuaying@sina.cn>
  *
  *  simple tool kit: test for signal.
  */

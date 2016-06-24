@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  stk_async_queue.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  stk_async_queue.c:  Yilong Zhao <chenhuaying@sina.cn>
  *
  *  simple tool kit: asynchronous queue.
  */

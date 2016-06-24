@@ -1,7 +1,7 @@
 /*
- *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
+ *  Copyright (c) 2015 SINA Corporation, All Rights Reserved.
  *
- *  test_daemon.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  test_daemon.c:  Yilong Zhao <chenhuaying@sina.cn>
  *
  *  simple tool kit: test for daemonize.
  */
