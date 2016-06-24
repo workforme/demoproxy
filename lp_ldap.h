@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_ldap.h:  Chen Huaying <chenyilong@sina.cn>
+ *  lp_ldap.h:  Chen Huaying <yilong@sina.cn>
  *
  *  ldapproxy ldap module.
  */

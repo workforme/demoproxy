@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  test.c:  Chen Huaying <chenyilong@sina.cn>
+ *  test.c:  Chen Huaying <yilong@sina.cn>
  *
  *  test for ldapproxy.
  */

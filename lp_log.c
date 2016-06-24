@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_log.c:  Chen Huaying <chenyilong@sina.cn>
+ *  lp_log.c:  Chen Huaying <yilong@sina.cn>
  *
  *  ldapproxy log.
  */
