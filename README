@@ -1,0 +1,4 @@
+1. start service
+   /bin/csh -cf /usr/local/bin/svscanboot &
+2. stop service
+   ps aux | grep -iE 'svscan|supervise|ldapproxy' | awk '{print "kill -9 " $2}' | sh

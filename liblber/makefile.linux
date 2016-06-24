@@ -1,0 +1,13 @@
+all: liblber.a etest dtest
+
+liblber.a: assert.o  bprint.o  debug.o  decode.o   encode.o   io.o  memory.o  options.o  sockbuf.o  stdio.o  version.o
+	ar rc liblber.a *.o 
+etest: etest.o
+	libtool --mode=link gcc -o $@ $^ liblber.a -I../include
+dtest: dtest.o
+	libtool --mode=link gcc -o $@ $^ liblber.a -I../include
+%.o: %.c
+	gcc -g -o $@ -c $^ -I../include
+
+clean:
+	rm -f *.o liblber.a etest dtest

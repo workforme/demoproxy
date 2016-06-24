@@ -1,0 +1,17 @@
+#!/bin/sh
+
+DEBUG=1
+
+if [ $DEBUG -eq 1 ]; then
+    #make clean && make &&
+    export LD_LIBRARY_PATH=/usr/local/lib64/:/usr/home/yilong/ldapproxy2/extra-lib/extra-lib/lib:$LD_LIBRARY_PATH
+    #echo $LD_LIBRARY_PATH
+    #ldd ldapproxy
+    #valgrind -v --trace-children=yes --track-origins=yes --track-fds=yes --leak-check=full --show-reachable=yes ./ldapproxy -t -f ./ldapproxy.ini
+    #LD_PRELOAD=./extra-lib/lib/libjemalloc.so ./ldapproxy -t -f ./ldapproxy.ini
+    > /var/log/sinamail/ldapproxy/ldapproxy.log  
+    /usr/home/yilong/ldapproxy2/ldapproxy  -f /usr/home/yilong/ldapproxy2/ldapproxy.ini.debug
+else
+    export LD_LIBRARY_PATH=/usr/local/lib64/:/usr/local/ldapproxy/extra-lib/extra-lib/lib:$LD_LIBRARY_PATH
+    ulimit -n 10240 && /usr/local/ldapproxy/ldapproxy -f /usr/local/ldapproxy/ldapproxy.ini
+fi

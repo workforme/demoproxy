@@ -1,0 +1,5 @@
+Jun 20 22:19:15 ent3-24 ldapproxy[30614]: lp_server.c[71] __lp_listening_handler: "<441776096> [INFO] accept fd(14), ready for register, inode(919276084)"
+Jun 20 22:19:15 ent3-24 ldapproxy[30614]: lp_ldap.c[614] lp_ldap_io_event_handler: "<441767680> [INFO] task type: ..., ..."
+Jun 20 22:19:15 ent3-24 ldapproxy[30614]: lp_ldap.c[614] lp_ldap_io_event_handler: "<441767680> [INFO] task type: ..., IO WRITE"
+Jun 20 22:19:23 ent3-24 ldapproxy[30614]: lp_ldap.c[670] lp_ldap_io_event_handler: "<441767680> [INFO] close connection(14), socket: 0"
+Jun 20 22:19:23 ent3-24 ldapproxy[30614]: lp_connection.c[138] __discard_list_data: "<441767680> [ERROR] lp_connection.c[138]: __discard_list_data Warning: c->discard != NULL failed!"

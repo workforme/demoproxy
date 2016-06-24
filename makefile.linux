@@ -1,0 +1,37 @@
+CFLAGS= -g -Wall -Werror -I./libstk -I./extra-lib/extra-lib/include -I./include -I./liblber -I./confparser \
+        -I /usr/local/include
+LDFLAGS=-L./libstk -lstk -L./extra-lib/extra-lib/lib -levent -lpthread -L./liblber -llber \
+		-L./confparser -lconfparser \
+	-L/usr/local/lib64 -lsinaentauth
+
+OBJECTS=ldapproxy.o lp_log.o lp_modules.o lp_connection.o lp_task.o lp_config.o \
+		lp_ldap.o lp_mysql.o lp_threads.o lp_server.o lp_ldap_logic.o utils.o
+TEST_OBJECTS=test.o lp_log.o lp_modules.o lp_connection.o test_connections.o lp_task.o \
+			 lp_config.o lp_ldap.o lp_mysql.o lp_threads.o lp_server.o lp_ldap_logic.o utils.o
+
+all: libstk liblber libconfparser ldapproxy test
+
+libstk:
+	make -C ./libstk/
+
+liblber:
+	make -C ./liblber/
+
+libconfparser:
+	cd ./confparser; make -f linux.mk
+
+ldapproxy: $(OBJECTS)
+	gcc -o $@ $^ $(LDFLAGS)
+
+test: $(TEST_OBJECTS)
+	gcc -o $@ $^ $(LDFLAGS)
+
+%.o: %.c
+	gcc $(CFLAGS) -c $^
+
+clean:
+	rm -f *.o ldapproxy test
+	cd ./libstk; make clean;
+	cd ./liblber; make clean;
+
+.PHONY: libstk liblber ldapproxy test clean all
