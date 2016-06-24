@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  test_connections.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  test_connections.c:  Chen Huaying <chenyilong@sina.cn>
  *
  *  test for connections.
  */

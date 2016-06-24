@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_task.h:  Chen Huaying chenhuaying@sina.cn
+ *  lp_task.h:  Chen Huaying chenyilong@sina.cn
  *
  *  ldapproxy task.
  */

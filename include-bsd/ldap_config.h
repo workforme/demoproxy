@@ -46,25 +46,25 @@
 
 /* directories */
 #ifndef LDAP_BINDIR
-#define LDAP_BINDIR			"/usr/home/huaying/usr/local/openldap/bin"
+#define LDAP_BINDIR			"/usr/home/yilong/usr/local/openldap/bin"
 #endif
 #ifndef LDAP_SBINDIR
-#define LDAP_SBINDIR		"/usr/home/huaying/usr/local/openldap/sbin"
+#define LDAP_SBINDIR		"/usr/home/yilong/usr/local/openldap/sbin"
 #endif
 #ifndef LDAP_DATADIR
-#define LDAP_DATADIR		"/usr/home/huaying/usr/local/openldap/share/openldap"
+#define LDAP_DATADIR		"/usr/home/yilong/usr/local/openldap/share/openldap"
 #endif
 #ifndef LDAP_SYSCONFDIR
-#define LDAP_SYSCONFDIR		"/usr/home/huaying/usr/local/openldap/etc/openldap"
+#define LDAP_SYSCONFDIR		"/usr/home/yilong/usr/local/openldap/etc/openldap"
 #endif
 #ifndef LDAP_LIBEXECDIR
-#define LDAP_LIBEXECDIR		"/usr/home/huaying/usr/local/openldap/libexec"
+#define LDAP_LIBEXECDIR		"/usr/home/yilong/usr/local/openldap/libexec"
 #endif
 #ifndef LDAP_MODULEDIR
-#define LDAP_MODULEDIR		"/usr/home/huaying/usr/local/openldap/libexec/openldap"
+#define LDAP_MODULEDIR		"/usr/home/yilong/usr/local/openldap/libexec/openldap"
 #endif
 #ifndef LDAP_RUNDIR
-#define LDAP_RUNDIR			"/usr/home/huaying/usr/local/openldap/var"
+#define LDAP_RUNDIR			"/usr/home/yilong/usr/local/openldap/var"
 #endif
 #ifndef LDAP_LOCALEDIR
 #define LDAP_LOCALEDIR		""

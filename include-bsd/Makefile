@@ -27,7 +27,7 @@ top_builddir = ..
 srcdir = .
 top_srcdir = ..
 
-prefix = /usr/home/huaying/usr/local/openldap
+prefix = /usr/home/yilong/usr/local/openldap
 exec_prefix = ${prefix}
 ldap_subdir = /openldap
 
@@ -135,7 +135,7 @@ HOSTNAME = $(SHTOOL) echo -e "%h%d"
 LN = $(SHTOOL) mkln
 LN_H = $(LN)
 LN_S = $(LN) -s
-MAKEINFO = ${SHELL} /usr/home/huaying/openldap/openldap-2.4.23/build/missing --run makeinfo
+MAKEINFO = ${SHELL} /usr/home/yilong/openldap/openldap-2.4.23/build/missing --run makeinfo
 MKDIR = $(SHTOOL) mkdir -p
 MV = $(SHTOOL) move
 PWD = pwd
@@ -179,8 +179,8 @@ WRAP_LIBS =
 # AutoConfig generated 
 AC_CC	= cc
 AC_CFLAGS = -g -O2
-AC_DEFS = -I/usr/home/huaying/usr/local/include # -DHAVE_CONFIG_H
-AC_LDFLAGS = -L/usr/home/huaying/usr/local/lib
+AC_DEFS = -I/usr/home/yilong/usr/local/include # -DHAVE_CONFIG_H
+AC_LDFLAGS = -L/usr/home/yilong/usr/local/lib
 AC_LIBS = 
 
 KRB4_LIBS = 

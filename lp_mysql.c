@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_mysql.c:  Chen Huaying <chenhuaying@sina.cn>
+ *  lp_mysql.c:  Chen Huaying <chenyilong@sina.cn>
  *
  *  ldapproxy mysql module.
  */

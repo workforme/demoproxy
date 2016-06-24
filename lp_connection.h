@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_connection.h:  Chen Huaying <chenhuaying@sina.cn>
+ *  lp_connection.h:  Chen Huaying <chenyilong@sina.cn>
  *
  *  ldapproxy connection manager.
  */

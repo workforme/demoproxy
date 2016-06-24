@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 2010 SINA Corporation, All Rights Reserved.
  *
- *  lp_ldap_logic.h:  Chen Huaying <chenhuaying@sina.cn>
+ *  lp_ldap_logic.h:  Chen Huaying <chenyilong@sina.cn>
  *
  *  ldapproxy ldap logic process.
  */

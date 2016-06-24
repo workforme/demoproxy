@@ -18,5 +18,5 @@ static const char copyright[] =
 
 static const char __Version[] =
 "@(#) $OpenLDAP: liblber.la 2.4.39 (" __DATE__ " " __TIME__ ") $\n"
-"\thuaying@ent3-24.localdomain:/usr/home/huaying/work/openldap-2.4.39/libraries/liblber\n";
+"\tyilong@ent3-24.localdomain:/usr/home/huaying/work/openldap-2.4.39/libraries/liblber\n";
 

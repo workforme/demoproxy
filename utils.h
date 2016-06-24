@@ -1,7 +1,7 @@
 /*
  *  Copyright (c) 1996 - 2014 SINA Corporation, All Rights Reserved.
  *
- *  utils.h:  Huaying <huaying@staff.sina.com.cn>
+ *  utils.h:  Huaying <yilong@staff.sina.com.cn>
  *  
  *  utilis header
  */
